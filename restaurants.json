@@ -1,0 +1,1602 @@
+[
+ {
+  "restaurant_id": "R-001",
+  "name": "Snack Express 1",
+  "city": "Casablanca",
+  "category": "sandwich",
+  "latitude": 33.59242,
+  "longitude": -7.61021
+ },
+ {
+  "restaurant_id": "R-002",
+  "name": "Tacos Gourmet 2",
+  "city": "Casablanca",
+  "category": "tacos",
+  "latitude": 33.54006,
+  "longitude": -7.59605
+ },
+ {
+  "restaurant_id": "R-003",
+  "name": "Pizza King 3",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.55171,
+  "longitude": -7.58164
+ },
+ {
+  "restaurant_id": "R-004",
+  "name": "Burger Gourmet 4",
+  "city": "Casablanca",
+  "category": "burger",
+  "latitude": 33.56666,
+  "longitude": -7.59386
+ },
+ {
+  "restaurant_id": "R-005",
+  "name": "Sushi Palace 5",
+  "city": "Casablanca",
+  "category": "sushi",
+  "latitude": 33.58895,
+  "longitude": -7.60258
+ },
+ {
+  "restaurant_id": "R-006",
+  "name": "Tacos Chez Ali 6",
+  "city": "Casablanca",
+  "category": "tacos",
+  "latitude": 33.54128,
+  "longitude": -7.59941
+ },
+ {
+  "restaurant_id": "R-007",
+  "name": "Maki Express 2 7",
+  "city": "Casablanca",
+  "category": "sushi",
+  "latitude": 33.55426,
+  "longitude": -7.62632
+ },
+ {
+  "restaurant_id": "R-008",
+  "name": "Riad House 8",
+  "city": "Casablanca",
+  "category": "marocain",
+  "latitude": 33.61095,
+  "longitude": -7.59952
+ },
+ {
+  "restaurant_id": "R-009",
+  "name": "Grill Express 2 9",
+  "city": "Casablanca",
+  "category": "burger",
+  "latitude": 33.60394,
+  "longitude": -7.60087
+ },
+ {
+  "restaurant_id": "R-010",
+  "name": "Tacos Express 10",
+  "city": "Casablanca",
+  "category": "tacos",
+  "latitude": 33.586,
+  "longitude": -7.56795
+ },
+ {
+  "restaurant_id": "R-011",
+  "name": "Pizza House 11",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.56351,
+  "longitude": -7.59353
+ },
+ {
+  "restaurant_id": "R-012",
+  "name": "Sushi Chez Ali 12",
+  "city": "Casablanca",
+  "category": "sushi",
+  "latitude": 33.56152,
+  "longitude": -7.57619
+ },
+ {
+  "restaurant_id": "R-013",
+  "name": "Snack Express 2 13",
+  "city": "Casablanca",
+  "category": "sandwich",
+  "latitude": 33.5839,
+  "longitude": -7.58707
+ },
+ {
+  "restaurant_id": "R-014",
+  "name": "Tacos Medina 14",
+  "city": "Casablanca",
+  "category": "tacos",
+  "latitude": 33.56346,
+  "longitude": -7.55064
+ },
+ {
+  "restaurant_id": "R-015",
+  "name": "Snack Chez Ali 15",
+  "city": "Casablanca",
+  "category": "sandwich",
+  "latitude": 33.60053,
+  "longitude": -7.56772
+ },
+ {
+  "restaurant_id": "R-016",
+  "name": "Tacos Chez Ali 16",
+  "city": "Casablanca",
+  "category": "tacos",
+  "latitude": 33.56519,
+  "longitude": -7.6245
+ },
+ {
+  "restaurant_id": "R-017",
+  "name": "Grill King 17",
+  "city": "Casablanca",
+  "category": "burger",
+  "latitude": 33.58554,
+  "longitude": -7.59815
+ },
+ {
+  "restaurant_id": "R-018",
+  "name": "Sandwich Palace 18",
+  "city": "Casablanca",
+  "category": "sandwich",
+  "latitude": 33.55429,
+  "longitude": -7.61007
+ },
+ {
+  "restaurant_id": "R-019",
+  "name": "Grill Express 2 19",
+  "city": "Casablanca",
+  "category": "burger",
+  "latitude": 33.56737,
+  "longitude": -7.58312
+ },
+ {
+  "restaurant_id": "R-020",
+  "name": "Sushi Palace 20",
+  "city": "Casablanca",
+  "category": "sushi",
+  "latitude": 33.57386,
+  "longitude": -7.62253
+ },
+ {
+  "restaurant_id": "R-021",
+  "name": "Pizza Palace 21",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.5833,
+  "longitude": -7.56643
+ },
+ {
+  "restaurant_id": "R-022",
+  "name": "Riad House 22",
+  "city": "Casablanca",
+  "category": "marocain",
+  "latitude": 33.56388,
+  "longitude": -7.58213
+ },
+ {
+  "restaurant_id": "R-023",
+  "name": "Riad Corner 23",
+  "city": "Casablanca",
+  "category": "marocain",
+  "latitude": 33.61079,
+  "longitude": -7.56094
+ },
+ {
+  "restaurant_id": "R-024",
+  "name": "Pizza Gourmet 24",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.59317,
+  "longitude": -7.56831
+ },
+ {
+  "restaurant_id": "R-025",
+  "name": "Sushi Corner 25",
+  "city": "Casablanca",
+  "category": "sushi",
+  "latitude": 33.56788,
+  "longitude": -7.5935
+ },
+ {
+  "restaurant_id": "R-026",
+  "name": "Sandwich Gourmet 26",
+  "city": "Casablanca",
+  "category": "sandwich",
+  "latitude": 33.59406,
+  "longitude": -7.58919
+ },
+ {
+  "restaurant_id": "R-027",
+  "name": "Pizzeria Gourmet 27",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.58182,
+  "longitude": -7.61757
+ },
+ {
+  "restaurant_id": "R-028",
+  "name": "Tacos Express 2 28",
+  "city": "Casablanca",
+  "category": "tacos",
+  "latitude": 33.55903,
+  "longitude": -7.62824
+ },
+ {
+  "restaurant_id": "R-029",
+  "name": "Maki King 29",
+  "city": "Casablanca",
+  "category": "sushi",
+  "latitude": 33.53773,
+  "longitude": -7.55956
+ },
+ {
+  "restaurant_id": "R-030",
+  "name": "Pizza Medina 30",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.59838,
+  "longitude": -7.55156
+ },
+ {
+  "restaurant_id": "R-031",
+  "name": "Burger Palace 31",
+  "city": "Casablanca",
+  "category": "burger",
+  "latitude": 33.58588,
+  "longitude": -7.55405
+ },
+ {
+  "restaurant_id": "R-032",
+  "name": "French Tacos Gourmet 32",
+  "city": "Casablanca",
+  "category": "tacos",
+  "latitude": 33.60289,
+  "longitude": -7.59595
+ },
+ {
+  "restaurant_id": "R-033",
+  "name": "Tacos Corner 33",
+  "city": "Casablanca",
+  "category": "tacos",
+  "latitude": 33.56502,
+  "longitude": -7.57607
+ },
+ {
+  "restaurant_id": "R-034",
+  "name": "Maki Gourmet 34",
+  "city": "Casablanca",
+  "category": "sushi",
+  "latitude": 33.56922,
+  "longitude": -7.60997
+ },
+ {
+  "restaurant_id": "R-035",
+  "name": "Pizzeria Express 35",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.58016,
+  "longitude": -7.61139
+ },
+ {
+  "restaurant_id": "R-036",
+  "name": "Tacos House 36",
+  "city": "Casablanca",
+  "category": "tacos",
+  "latitude": 33.58973,
+  "longitude": -7.62509
+ },
+ {
+  "restaurant_id": "R-037",
+  "name": "Pizza Chez Ali 37",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.53877,
+  "longitude": -7.61076
+ },
+ {
+  "restaurant_id": "R-038",
+  "name": "Sandwich King 38",
+  "city": "Casablanca",
+  "category": "sandwich",
+  "latitude": 33.57624,
+  "longitude": -7.57193
+ },
+ {
+  "restaurant_id": "R-039",
+  "name": "Grill King 39",
+  "city": "Casablanca",
+  "category": "burger",
+  "latitude": 33.59587,
+  "longitude": -7.5652
+ },
+ {
+  "restaurant_id": "R-040",
+  "name": "Tacos House 40",
+  "city": "Casablanca",
+  "category": "tacos",
+  "latitude": 33.58582,
+  "longitude": -7.60146
+ },
+ {
+  "restaurant_id": "R-041",
+  "name": "Tajine Express 41",
+  "city": "Casablanca",
+  "category": "marocain",
+  "latitude": 33.58697,
+  "longitude": -7.55107
+ },
+ {
+  "restaurant_id": "R-042",
+  "name": "Pizza Atlas 42",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.59136,
+  "longitude": -7.56575
+ },
+ {
+  "restaurant_id": "R-043",
+  "name": "Pizza King 43",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.54832,
+  "longitude": -7.59391
+ },
+ {
+  "restaurant_id": "R-044",
+  "name": "Dar Corner 44",
+  "city": "Casablanca",
+  "category": "marocain",
+  "latitude": 33.57011,
+  "longitude": -7.55984
+ },
+ {
+  "restaurant_id": "R-045",
+  "name": "Pizzeria Gourmet 45",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.54093,
+  "longitude": -7.57763
+ },
+ {
+  "restaurant_id": "R-046",
+  "name": "Burger House 46",
+  "city": "Casablanca",
+  "category": "burger",
+  "latitude": 33.60721,
+  "longitude": -7.5619
+ },
+ {
+  "restaurant_id": "R-047",
+  "name": "French Tacos Medina 47",
+  "city": "Casablanca",
+  "category": "tacos",
+  "latitude": 33.57161,
+  "longitude": -7.56063
+ },
+ {
+  "restaurant_id": "R-048",
+  "name": "Pizza Atlas 48",
+  "city": "Casablanca",
+  "category": "pizza",
+  "latitude": 33.53327,
+  "longitude": -7.59857
+ },
+ {
+  "restaurant_id": "R-049",
+  "name": "Tajine Atlas 49",
+  "city": "Casablanca",
+  "category": "marocain",
+  "latitude": 33.58883,
+  "longitude": -7.57136
+ },
+ {
+  "restaurant_id": "R-050",
+  "name": "Grill Palace 50",
+  "city": "Casablanca",
+  "category": "burger",
+  "latitude": 33.54829,
+  "longitude": -7.61238
+ },
+ {
+  "restaurant_id": "R-051",
+  "name": "Pizza Chez Ali 51",
+  "city": "Rabat",
+  "category": "pizza",
+  "latitude": 33.98547,
+  "longitude": -6.83487
+ },
+ {
+  "restaurant_id": "R-052",
+  "name": "Burger Express 52",
+  "city": "Rabat",
+  "category": "burger",
+  "latitude": 34.05776,
+  "longitude": -6.87519
+ },
+ {
+  "restaurant_id": "R-053",
+  "name": "Tacos Express 2 53",
+  "city": "Rabat",
+  "category": "tacos",
+  "latitude": 33.98634,
+  "longitude": -6.81265
+ },
+ {
+  "restaurant_id": "R-054",
+  "name": "Dar Express 2 54",
+  "city": "Rabat",
+  "category": "marocain",
+  "latitude": 34.0006,
+  "longitude": -6.83404
+ },
+ {
+  "restaurant_id": "R-055",
+  "name": "Burger Atlas 55",
+  "city": "Rabat",
+  "category": "burger",
+  "latitude": 34.03349,
+  "longitude": -6.83638
+ },
+ {
+  "restaurant_id": "R-056",
+  "name": "Maki King 56",
+  "city": "Rabat",
+  "category": "sushi",
+  "latitude": 34.03448,
+  "longitude": -6.85647
+ },
+ {
+  "restaurant_id": "R-057",
+  "name": "Maki Palace 57",
+  "city": "Rabat",
+  "category": "sushi",
+  "latitude": 34.03464,
+  "longitude": -6.8576
+ },
+ {
+  "restaurant_id": "R-058",
+  "name": "Sushi Express 58",
+  "city": "Rabat",
+  "category": "sushi",
+  "latitude": 34.01756,
+  "longitude": -6.80172
+ },
+ {
+  "restaurant_id": "R-059",
+  "name": "Pizza Gourmet 59",
+  "city": "Rabat",
+  "category": "pizza",
+  "latitude": 33.99795,
+  "longitude": -6.86038
+ },
+ {
+  "restaurant_id": "R-060",
+  "name": "Sushi King 60",
+  "city": "Rabat",
+  "category": "sushi",
+  "latitude": 34.01046,
+  "longitude": -6.86898
+ },
+ {
+  "restaurant_id": "R-061",
+  "name": "Grill Express 2 61",
+  "city": "Rabat",
+  "category": "burger",
+  "latitude": 34.05961,
+  "longitude": -6.81703
+ },
+ {
+  "restaurant_id": "R-062",
+  "name": "Burger Gourmet 62",
+  "city": "Rabat",
+  "category": "burger",
+  "latitude": 34.00485,
+  "longitude": -6.82853
+ },
+ {
+  "restaurant_id": "R-063",
+  "name": "French Tacos House 63",
+  "city": "Rabat",
+  "category": "tacos",
+  "latitude": 34.05208,
+  "longitude": -6.82221
+ },
+ {
+  "restaurant_id": "R-064",
+  "name": "French Tacos Corner 64",
+  "city": "Rabat",
+  "category": "tacos",
+  "latitude": 34.02929,
+  "longitude": -6.82419
+ },
+ {
+  "restaurant_id": "R-065",
+  "name": "French Tacos Gourmet 65",
+  "city": "Rabat",
+  "category": "tacos",
+  "latitude": 34.01998,
+  "longitude": -6.80917
+ },
+ {
+  "restaurant_id": "R-066",
+  "name": "Pizza Atlas 66",
+  "city": "Rabat",
+  "category": "pizza",
+  "latitude": 34.04725,
+  "longitude": -6.87807
+ },
+ {
+  "restaurant_id": "R-067",
+  "name": "Sushi Corner 67",
+  "city": "Rabat",
+  "category": "sushi",
+  "latitude": 33.99383,
+  "longitude": -6.84625
+ },
+ {
+  "restaurant_id": "R-068",
+  "name": "Sandwich Gourmet 68",
+  "city": "Rabat",
+  "category": "sandwich",
+  "latitude": 33.98167,
+  "longitude": -6.87558
+ },
+ {
+  "restaurant_id": "R-069",
+  "name": "Snack Gourmet 69",
+  "city": "Rabat",
+  "category": "sandwich",
+  "latitude": 33.98378,
+  "longitude": -6.85206
+ },
+ {
+  "restaurant_id": "R-070",
+  "name": "Burger Atlas 70",
+  "city": "Rabat",
+  "category": "burger",
+  "latitude": 33.9911,
+  "longitude": -6.85694
+ },
+ {
+  "restaurant_id": "R-071",
+  "name": "Pizzeria King 71",
+  "city": "Rabat",
+  "category": "pizza",
+  "latitude": 34.03547,
+  "longitude": -6.82825
+ },
+ {
+  "restaurant_id": "R-072",
+  "name": "Maki Express 2 72",
+  "city": "Rabat",
+  "category": "sushi",
+  "latitude": 34.04086,
+  "longitude": -6.80754
+ },
+ {
+  "restaurant_id": "R-073",
+  "name": "Tacos Palace 73",
+  "city": "Rabat",
+  "category": "tacos",
+  "latitude": 34.05141,
+  "longitude": -6.87962
+ },
+ {
+  "restaurant_id": "R-074",
+  "name": "Sandwich Atlas 74",
+  "city": "Rabat",
+  "category": "sandwich",
+  "latitude": 34.04508,
+  "longitude": -6.81247
+ },
+ {
+  "restaurant_id": "R-075",
+  "name": "French Tacos Palace 75",
+  "city": "Rabat",
+  "category": "tacos",
+  "latitude": 34.04389,
+  "longitude": -6.87295
+ },
+ {
+  "restaurant_id": "R-076",
+  "name": "Pizzeria King 76",
+  "city": "Rabat",
+  "category": "pizza",
+  "latitude": 33.99687,
+  "longitude": -6.80812
+ },
+ {
+  "restaurant_id": "R-077",
+  "name": "Maki King 77",
+  "city": "Rabat",
+  "category": "sushi",
+  "latitude": 33.99873,
+  "longitude": -6.8288
+ },
+ {
+  "restaurant_id": "R-078",
+  "name": "Tajine Corner 78",
+  "city": "Rabat",
+  "category": "marocain",
+  "latitude": 34.05005,
+  "longitude": -6.80425
+ },
+ {
+  "restaurant_id": "R-079",
+  "name": "Maki Gourmet 79",
+  "city": "Rabat",
+  "category": "sushi",
+  "latitude": 34.01287,
+  "longitude": -6.80311
+ },
+ {
+  "restaurant_id": "R-080",
+  "name": "Grill Express 80",
+  "city": "Rabat",
+  "category": "burger",
+  "latitude": 33.99013,
+  "longitude": -6.80397
+ },
+ {
+  "restaurant_id": "R-081",
+  "name": "French Tacos Express 81",
+  "city": "Rabat",
+  "category": "tacos",
+  "latitude": 33.98957,
+  "longitude": -6.84683
+ },
+ {
+  "restaurant_id": "R-082",
+  "name": "Sandwich Atlas 82",
+  "city": "Rabat",
+  "category": "sandwich",
+  "latitude": 34.0294,
+  "longitude": -6.84069
+ },
+ {
+  "restaurant_id": "R-083",
+  "name": "Riad King 83",
+  "city": "Rabat",
+  "category": "marocain",
+  "latitude": 34.00128,
+  "longitude": -6.8249
+ },
+ {
+  "restaurant_id": "R-084",
+  "name": "Pizza Chez Ali 84",
+  "city": "Rabat",
+  "category": "pizza",
+  "latitude": 34.0154,
+  "longitude": -6.80569
+ },
+ {
+  "restaurant_id": "R-085",
+  "name": "Maki House 85",
+  "city": "Rabat",
+  "category": "sushi",
+  "latitude": 34.03848,
+  "longitude": -6.85757
+ },
+ {
+  "restaurant_id": "R-086",
+  "name": "Maki Chez Ali 86",
+  "city": "Rabat",
+  "category": "sushi",
+  "latitude": 34.01309,
+  "longitude": -6.85795
+ },
+ {
+  "restaurant_id": "R-087",
+  "name": "Tacos Atlas 87",
+  "city": "Rabat",
+  "category": "tacos",
+  "latitude": 34.03409,
+  "longitude": -6.85127
+ },
+ {
+  "restaurant_id": "R-088",
+  "name": "Snack Express 2 88",
+  "city": "Rabat",
+  "category": "sandwich",
+  "latitude": 34.02643,
+  "longitude": -6.84911
+ },
+ {
+  "restaurant_id": "R-089",
+  "name": "Pizzeria Corner 89",
+  "city": "Rabat",
+  "category": "pizza",
+  "latitude": 33.99771,
+  "longitude": -6.81874
+ },
+ {
+  "restaurant_id": "R-090",
+  "name": "Grill Medina 90",
+  "city": "Rabat",
+  "category": "burger",
+  "latitude": 34.01624,
+  "longitude": -6.82755
+ },
+ {
+  "restaurant_id": "R-091",
+  "name": "Grill Palace 91",
+  "city": "Rabat",
+  "category": "burger",
+  "latitude": 34.03361,
+  "longitude": -6.8589
+ },
+ {
+  "restaurant_id": "R-092",
+  "name": "Sandwich House 92",
+  "city": "Rabat",
+  "category": "sandwich",
+  "latitude": 34.04637,
+  "longitude": -6.82151
+ },
+ {
+  "restaurant_id": "R-093",
+  "name": "Sandwich King 93",
+  "city": "Rabat",
+  "category": "sandwich",
+  "latitude": 34.04543,
+  "longitude": -6.86981
+ },
+ {
+  "restaurant_id": "R-094",
+  "name": "Pizza Medina 94",
+  "city": "Rabat",
+  "category": "pizza",
+  "latitude": 34.0298,
+  "longitude": -6.82012
+ },
+ {
+  "restaurant_id": "R-095",
+  "name": "Tajine Express 2 95",
+  "city": "Rabat",
+  "category": "marocain",
+  "latitude": 33.99645,
+  "longitude": -6.82589
+ },
+ {
+  "restaurant_id": "R-096",
+  "name": "Tajine King 96",
+  "city": "Rabat",
+  "category": "marocain",
+  "latitude": 33.99271,
+  "longitude": -6.82659
+ },
+ {
+  "restaurant_id": "R-097",
+  "name": "Pizzeria King 97",
+  "city": "Rabat",
+  "category": "pizza",
+  "latitude": 33.99497,
+  "longitude": -6.80496
+ },
+ {
+  "restaurant_id": "R-098",
+  "name": "Grill Express 98",
+  "city": "Rabat",
+  "category": "burger",
+  "latitude": 34.02549,
+  "longitude": -6.8082
+ },
+ {
+  "restaurant_id": "R-099",
+  "name": "Pizzeria Palace 99",
+  "city": "Rabat",
+  "category": "pizza",
+  "latitude": 34.04501,
+  "longitude": -6.82819
+ },
+ {
+  "restaurant_id": "R-100",
+  "name": "Grill Medina 100",
+  "city": "Rabat",
+  "category": "burger",
+  "latitude": 34.02991,
+  "longitude": -6.82406
+ },
+ {
+  "restaurant_id": "R-101",
+  "name": "Grill Gourmet 101",
+  "city": "Marrakech",
+  "category": "burger",
+  "latitude": 31.62517,
+  "longitude": -8.00837
+ },
+ {
+  "restaurant_id": "R-102",
+  "name": "Tajine Corner 102",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.64964,
+  "longitude": -7.95391
+ },
+ {
+  "restaurant_id": "R-103",
+  "name": "Maki King 103",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.61147,
+  "longitude": -8.0149
+ },
+ {
+  "restaurant_id": "R-104",
+  "name": "Sushi Corner 104",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.61637,
+  "longitude": -7.94966
+ },
+ {
+  "restaurant_id": "R-105",
+  "name": "Pizza Palace 105",
+  "city": "Marrakech",
+  "category": "pizza",
+  "latitude": 31.608,
+  "longitude": -7.96558
+ },
+ {
+  "restaurant_id": "R-106",
+  "name": "Snack House 106",
+  "city": "Marrakech",
+  "category": "sandwich",
+  "latitude": 31.62269,
+  "longitude": -7.99463
+ },
+ {
+  "restaurant_id": "R-107",
+  "name": "Tajine Express 107",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.60605,
+  "longitude": -7.98749
+ },
+ {
+  "restaurant_id": "R-108",
+  "name": "Burger Express 2 108",
+  "city": "Marrakech",
+  "category": "burger",
+  "latitude": 31.61993,
+  "longitude": -8.02063
+ },
+ {
+  "restaurant_id": "R-109",
+  "name": "Maki Atlas 109",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.65778,
+  "longitude": -7.94483
+ },
+ {
+  "restaurant_id": "R-110",
+  "name": "Riad Gourmet 110",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.65349,
+  "longitude": -7.94928
+ },
+ {
+  "restaurant_id": "R-111",
+  "name": "Dar Corner 111",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.62437,
+  "longitude": -8.01878
+ },
+ {
+  "restaurant_id": "R-112",
+  "name": "Maki Palace 112",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.65674,
+  "longitude": -7.94754
+ },
+ {
+  "restaurant_id": "R-113",
+  "name": "Burger Atlas 113",
+  "city": "Marrakech",
+  "category": "burger",
+  "latitude": 31.63685,
+  "longitude": -7.96806
+ },
+ {
+  "restaurant_id": "R-114",
+  "name": "Pizzeria Palace 114",
+  "city": "Marrakech",
+  "category": "pizza",
+  "latitude": 31.65885,
+  "longitude": -8.00656
+ },
+ {
+  "restaurant_id": "R-115",
+  "name": "Maki Chez Ali 115",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.60643,
+  "longitude": -7.99495
+ },
+ {
+  "restaurant_id": "R-116",
+  "name": "Tajine Atlas 116",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.60968,
+  "longitude": -8.01455
+ },
+ {
+  "restaurant_id": "R-117",
+  "name": "Pizza Chez Ali 117",
+  "city": "Marrakech",
+  "category": "pizza",
+  "latitude": 31.60744,
+  "longitude": -8.01561
+ },
+ {
+  "restaurant_id": "R-118",
+  "name": "Snack Express 118",
+  "city": "Marrakech",
+  "category": "sandwich",
+  "latitude": 31.66547,
+  "longitude": -8.00515
+ },
+ {
+  "restaurant_id": "R-119",
+  "name": "Pizza King 119",
+  "city": "Marrakech",
+  "category": "pizza",
+  "latitude": 31.5996,
+  "longitude": -7.96754
+ },
+ {
+  "restaurant_id": "R-120",
+  "name": "Burger Medina 120",
+  "city": "Marrakech",
+  "category": "burger",
+  "latitude": 31.64546,
+  "longitude": -7.95975
+ },
+ {
+  "restaurant_id": "R-121",
+  "name": "Tacos Palace 121",
+  "city": "Marrakech",
+  "category": "tacos",
+  "latitude": 31.66668,
+  "longitude": -8.01245
+ },
+ {
+  "restaurant_id": "R-122",
+  "name": "Pizzeria Express 2 122",
+  "city": "Marrakech",
+  "category": "pizza",
+  "latitude": 31.64369,
+  "longitude": -7.94445
+ },
+ {
+  "restaurant_id": "R-123",
+  "name": "Riad King 123",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.59558,
+  "longitude": -7.96585
+ },
+ {
+  "restaurant_id": "R-124",
+  "name": "Snack House 124",
+  "city": "Marrakech",
+  "category": "sandwich",
+  "latitude": 31.64528,
+  "longitude": -7.99697
+ },
+ {
+  "restaurant_id": "R-125",
+  "name": "Snack Express 2 125",
+  "city": "Marrakech",
+  "category": "sandwich",
+  "latitude": 31.65211,
+  "longitude": -7.99332
+ },
+ {
+  "restaurant_id": "R-126",
+  "name": "Riad Chez Ali 126",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.59502,
+  "longitude": -7.9693
+ },
+ {
+  "restaurant_id": "R-127",
+  "name": "Pizzeria Medina 127",
+  "city": "Marrakech",
+  "category": "pizza",
+  "latitude": 31.59794,
+  "longitude": -7.94424
+ },
+ {
+  "restaurant_id": "R-128",
+  "name": "Sandwich Palace 128",
+  "city": "Marrakech",
+  "category": "sandwich",
+  "latitude": 31.62434,
+  "longitude": -7.9624
+ },
+ {
+  "restaurant_id": "R-129",
+  "name": "Sandwich Express 2 129",
+  "city": "Marrakech",
+  "category": "sandwich",
+  "latitude": 31.65416,
+  "longitude": -7.97805
+ },
+ {
+  "restaurant_id": "R-130",
+  "name": "Tajine Atlas 130",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.65556,
+  "longitude": -7.9737
+ },
+ {
+  "restaurant_id": "R-131",
+  "name": "Sushi House 131",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.61181,
+  "longitude": -7.98504
+ },
+ {
+  "restaurant_id": "R-132",
+  "name": "Riad Express 2 132",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.64296,
+  "longitude": -7.99419
+ },
+ {
+  "restaurant_id": "R-133",
+  "name": "Tajine Palace 133",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.6285,
+  "longitude": -7.99271
+ },
+ {
+  "restaurant_id": "R-134",
+  "name": "Maki Corner 134",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.65993,
+  "longitude": -7.96501
+ },
+ {
+  "restaurant_id": "R-135",
+  "name": "Sushi Gourmet 135",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.66535,
+  "longitude": -8.01425
+ },
+ {
+  "restaurant_id": "R-136",
+  "name": "Sandwich Medina 136",
+  "city": "Marrakech",
+  "category": "sandwich",
+  "latitude": 31.63391,
+  "longitude": -8.00187
+ },
+ {
+  "restaurant_id": "R-137",
+  "name": "Riad Medina 137",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.62535,
+  "longitude": -8.01972
+ },
+ {
+  "restaurant_id": "R-138",
+  "name": "Sushi Atlas 138",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.64484,
+  "longitude": -7.9966
+ },
+ {
+  "restaurant_id": "R-139",
+  "name": "Grill Medina 139",
+  "city": "Marrakech",
+  "category": "burger",
+  "latitude": 31.63378,
+  "longitude": -7.9936
+ },
+ {
+  "restaurant_id": "R-140",
+  "name": "Sandwich Chez Ali 140",
+  "city": "Marrakech",
+  "category": "sandwich",
+  "latitude": 31.64573,
+  "longitude": -7.99943
+ },
+ {
+  "restaurant_id": "R-141",
+  "name": "Sushi House 141",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.6472,
+  "longitude": -7.99586
+ },
+ {
+  "restaurant_id": "R-142",
+  "name": "Snack King 142",
+  "city": "Marrakech",
+  "category": "sandwich",
+  "latitude": 31.60681,
+  "longitude": -7.98236
+ },
+ {
+  "restaurant_id": "R-143",
+  "name": "Sandwich House 143",
+  "city": "Marrakech",
+  "category": "sandwich",
+  "latitude": 31.65611,
+  "longitude": -7.9974
+ },
+ {
+  "restaurant_id": "R-144",
+  "name": "Sushi Corner 144",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.59063,
+  "longitude": -7.97837
+ },
+ {
+  "restaurant_id": "R-145",
+  "name": "Sushi Express 145",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.63377,
+  "longitude": -7.96531
+ },
+ {
+  "restaurant_id": "R-146",
+  "name": "French Tacos House 146",
+  "city": "Marrakech",
+  "category": "tacos",
+  "latitude": 31.65932,
+  "longitude": -7.97517
+ },
+ {
+  "restaurant_id": "R-147",
+  "name": "Tajine Medina 147",
+  "city": "Marrakech",
+  "category": "marocain",
+  "latitude": 31.61676,
+  "longitude": -7.94386
+ },
+ {
+  "restaurant_id": "R-148",
+  "name": "Maki House 148",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.65527,
+  "longitude": -7.98904
+ },
+ {
+  "restaurant_id": "R-149",
+  "name": "Pizza Palace 149",
+  "city": "Marrakech",
+  "category": "pizza",
+  "latitude": 31.60144,
+  "longitude": -7.97607
+ },
+ {
+  "restaurant_id": "R-150",
+  "name": "Sushi King 150",
+  "city": "Marrakech",
+  "category": "sushi",
+  "latitude": 31.59898,
+  "longitude": -7.95994
+ },
+ {
+  "restaurant_id": "R-151",
+  "name": "Burger Gourmet 151",
+  "city": "Tanger",
+  "category": "burger",
+  "latitude": 35.74993,
+  "longitude": -5.80132
+ },
+ {
+  "restaurant_id": "R-152",
+  "name": "Maki Corner 152",
+  "city": "Tanger",
+  "category": "sushi",
+  "latitude": 35.76499,
+  "longitude": -5.86918
+ },
+ {
+  "restaurant_id": "R-153",
+  "name": "Snack King 153",
+  "city": "Tanger",
+  "category": "sandwich",
+  "latitude": 35.76954,
+  "longitude": -5.85283
+ },
+ {
+  "restaurant_id": "R-154",
+  "name": "Pizza King 154",
+  "city": "Tanger",
+  "category": "pizza",
+  "latitude": 35.73341,
+  "longitude": -5.86799
+ },
+ {
+  "restaurant_id": "R-155",
+  "name": "Pizzeria Medina 155",
+  "city": "Tanger",
+  "category": "pizza",
+  "latitude": 35.77465,
+  "longitude": -5.83641
+ },
+ {
+  "restaurant_id": "R-156",
+  "name": "Pizza Corner 156",
+  "city": "Tanger",
+  "category": "pizza",
+  "latitude": 35.77606,
+  "longitude": -5.81776
+ },
+ {
+  "restaurant_id": "R-157",
+  "name": "Dar King 157",
+  "city": "Tanger",
+  "category": "marocain",
+  "latitude": 35.79341,
+  "longitude": -5.81097
+ },
+ {
+  "restaurant_id": "R-158",
+  "name": "Snack Atlas 158",
+  "city": "Tanger",
+  "category": "sandwich",
+  "latitude": 35.72868,
+  "longitude": -5.85602
+ },
+ {
+  "restaurant_id": "R-159",
+  "name": "French Tacos Palace 159",
+  "city": "Tanger",
+  "category": "tacos",
+  "latitude": 35.72521,
+  "longitude": -5.86073
+ },
+ {
+  "restaurant_id": "R-160",
+  "name": "Maki Medina 160",
+  "city": "Tanger",
+  "category": "sushi",
+  "latitude": 35.72945,
+  "longitude": -5.81891
+ },
+ {
+  "restaurant_id": "R-161",
+  "name": "Sandwich Corner 161",
+  "city": "Tanger",
+  "category": "sandwich",
+  "latitude": 35.75954,
+  "longitude": -5.8345
+ },
+ {
+  "restaurant_id": "R-162",
+  "name": "Pizza Atlas 162",
+  "city": "Tanger",
+  "category": "pizza",
+  "latitude": 35.77826,
+  "longitude": -5.8257
+ },
+ {
+  "restaurant_id": "R-163",
+  "name": "Pizza King 163",
+  "city": "Tanger",
+  "category": "pizza",
+  "latitude": 35.79645,
+  "longitude": -5.80712
+ },
+ {
+  "restaurant_id": "R-164",
+  "name": "Burger Corner 164",
+  "city": "Tanger",
+  "category": "burger",
+  "latitude": 35.7656,
+  "longitude": -5.81295
+ },
+ {
+  "restaurant_id": "R-165",
+  "name": "French Tacos Gourmet 165",
+  "city": "Tanger",
+  "category": "tacos",
+  "latitude": 35.77162,
+  "longitude": -5.80071
+ },
+ {
+  "restaurant_id": "R-166",
+  "name": "French Tacos Medina 166",
+  "city": "Tanger",
+  "category": "tacos",
+  "latitude": 35.79702,
+  "longitude": -5.8364
+ },
+ {
+  "restaurant_id": "R-167",
+  "name": "Tajine Chez Ali 167",
+  "city": "Tanger",
+  "category": "marocain",
+  "latitude": 35.77311,
+  "longitude": -5.80538
+ },
+ {
+  "restaurant_id": "R-168",
+  "name": "Maki Medina 168",
+  "city": "Tanger",
+  "category": "sushi",
+  "latitude": 35.74256,
+  "longitude": -5.79838
+ },
+ {
+  "restaurant_id": "R-169",
+  "name": "Burger Medina 169",
+  "city": "Tanger",
+  "category": "burger",
+  "latitude": 35.72654,
+  "longitude": -5.85381
+ },
+ {
+  "restaurant_id": "R-170",
+  "name": "Pizzeria Gourmet 170",
+  "city": "Tanger",
+  "category": "pizza",
+  "latitude": 35.78549,
+  "longitude": -5.87391
+ },
+ {
+  "restaurant_id": "R-171",
+  "name": "Grill Atlas 171",
+  "city": "Tanger",
+  "category": "burger",
+  "latitude": 35.72384,
+  "longitude": -5.83252
+ },
+ {
+  "restaurant_id": "R-172",
+  "name": "Grill Medina 172",
+  "city": "Tanger",
+  "category": "burger",
+  "latitude": 35.7803,
+  "longitude": -5.85772
+ },
+ {
+  "restaurant_id": "R-173",
+  "name": "Burger Corner 173",
+  "city": "Tanger",
+  "category": "burger",
+  "latitude": 35.75455,
+  "longitude": -5.81814
+ },
+ {
+  "restaurant_id": "R-174",
+  "name": "Pizza Express 2 174",
+  "city": "Tanger",
+  "category": "pizza",
+  "latitude": 35.78345,
+  "longitude": -5.81722
+ },
+ {
+  "restaurant_id": "R-175",
+  "name": "Sushi Gourmet 175",
+  "city": "Tanger",
+  "category": "sushi",
+  "latitude": 35.75214,
+  "longitude": -5.85602
+ },
+ {
+  "restaurant_id": "R-176",
+  "name": "Pizzeria House 176",
+  "city": "Tanger",
+  "category": "pizza",
+  "latitude": 35.77132,
+  "longitude": -5.86168
+ },
+ {
+  "restaurant_id": "R-177",
+  "name": "Sandwich Gourmet 177",
+  "city": "Tanger",
+  "category": "sandwich",
+  "latitude": 35.77593,
+  "longitude": -5.84076
+ },
+ {
+  "restaurant_id": "R-178",
+  "name": "Tajine King 178",
+  "city": "Tanger",
+  "category": "marocain",
+  "latitude": 35.75604,
+  "longitude": -5.86243
+ },
+ {
+  "restaurant_id": "R-179",
+  "name": "Tacos House 179",
+  "city": "Tanger",
+  "category": "tacos",
+  "latitude": 35.7416,
+  "longitude": -5.8108
+ },
+ {
+  "restaurant_id": "R-180",
+  "name": "Tajine Gourmet 180",
+  "city": "Tanger",
+  "category": "marocain",
+  "latitude": 35.74087,
+  "longitude": -5.87379
+ },
+ {
+  "restaurant_id": "R-181",
+  "name": "Sandwich Express 2 181",
+  "city": "Tanger",
+  "category": "sandwich",
+  "latitude": 35.76589,
+  "longitude": -5.8212
+ },
+ {
+  "restaurant_id": "R-182",
+  "name": "French Tacos Gourmet 182",
+  "city": "Tanger",
+  "category": "tacos",
+  "latitude": 35.75825,
+  "longitude": -5.8474
+ },
+ {
+  "restaurant_id": "R-183",
+  "name": "Grill Medina 183",
+  "city": "Tanger",
+  "category": "burger",
+  "latitude": 35.79413,
+  "longitude": -5.80443
+ },
+ {
+  "restaurant_id": "R-184",
+  "name": "Snack Express 2 184",
+  "city": "Tanger",
+  "category": "sandwich",
+  "latitude": 35.75014,
+  "longitude": -5.80552
+ },
+ {
+  "restaurant_id": "R-185",
+  "name": "Dar Chez Ali 185",
+  "city": "Tanger",
+  "category": "marocain",
+  "latitude": 35.77908,
+  "longitude": -5.81758
+ },
+ {
+  "restaurant_id": "R-186",
+  "name": "Tajine Palace 186",
+  "city": "Tanger",
+  "category": "marocain",
+  "latitude": 35.75913,
+  "longitude": -5.87104
+ },
+ {
+  "restaurant_id": "R-187",
+  "name": "Grill House 187",
+  "city": "Tanger",
+  "category": "burger",
+  "latitude": 35.78944,
+  "longitude": -5.83878
+ },
+ {
+  "restaurant_id": "R-188",
+  "name": "Grill Express 188",
+  "city": "Tanger",
+  "category": "burger",
+  "latitude": 35.7773,
+  "longitude": -5.8412
+ },
+ {
+  "restaurant_id": "R-189",
+  "name": "Snack House 189",
+  "city": "Tanger",
+  "category": "sandwich",
+  "latitude": 35.75706,
+  "longitude": -5.79646
+ },
+ {
+  "restaurant_id": "R-190",
+  "name": "Maki House 190",
+  "city": "Tanger",
+  "category": "sushi",
+  "latitude": 35.78764,
+  "longitude": -5.80581
+ },
+ {
+  "restaurant_id": "R-191",
+  "name": "Grill Chez Ali 191",
+  "city": "Tanger",
+  "category": "burger",
+  "latitude": 35.76964,
+  "longitude": -5.803
+ },
+ {
+  "restaurant_id": "R-192",
+  "name": "Riad Express 192",
+  "city": "Tanger",
+  "category": "marocain",
+  "latitude": 35.7689,
+  "longitude": -5.85522
+ },
+ {
+  "restaurant_id": "R-193",
+  "name": "Sandwich King 193",
+  "city": "Tanger",
+  "category": "sandwich",
+  "latitude": 35.77924,
+  "longitude": -5.83928
+ },
+ {
+  "restaurant_id": "R-194",
+  "name": "Pizza Medina 194",
+  "city": "Tanger",
+  "category": "pizza",
+  "latitude": 35.73281,
+  "longitude": -5.85004
+ },
+ {
+  "restaurant_id": "R-195",
+  "name": "Pizza Chez Ali 195",
+  "city": "Tanger",
+  "category": "pizza",
+  "latitude": 35.78319,
+  "longitude": -5.85053
+ },
+ {
+  "restaurant_id": "R-196",
+  "name": "Maki Palace 196",
+  "city": "Tanger",
+  "category": "sushi",
+  "latitude": 35.73904,
+  "longitude": -5.84104
+ },
+ {
+  "restaurant_id": "R-197",
+  "name": "Snack Palace 197",
+  "city": "Tanger",
+  "category": "sandwich",
+  "latitude": 35.73351,
+  "longitude": -5.82524
+ },
+ {
+  "restaurant_id": "R-198",
+  "name": "Riad King 198",
+  "city": "Tanger",
+  "category": "marocain",
+  "latitude": 35.75931,
+  "longitude": -5.82735
+ },
+ {
+  "restaurant_id": "R-199",
+  "name": "French Tacos Corner 199",
+  "city": "Tanger",
+  "category": "tacos",
+  "latitude": 35.75627,
+  "longitude": -5.82065
+ },
+ {
+  "restaurant_id": "R-200",
+  "name": "Tajine Gourmet 200",
+  "city": "Tanger",
+  "category": "marocain",
+  "latitude": 35.73214,
+  "longitude": -5.83866
+ }
+]

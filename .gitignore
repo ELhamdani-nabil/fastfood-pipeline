@@ -1,0 +1,4 @@
+orders_history.jsonl
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
